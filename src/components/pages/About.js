@@ -12,7 +12,7 @@ class About extends Component {
     return (
       <Fragment>
         <MetaTags>
-          <title>St. Georges Anglican Church | {pagelocation}</title>
+          <title>St. Georges Anglican | {pagelocation}</title>
           <meta name='description' content='#' />
         </MetaTags>
         <Header />

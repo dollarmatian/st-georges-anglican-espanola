@@ -1,30 +1,37 @@
 [
-    {
-        "id":1,
-        "year":2022,
-        "date":"June 30",
-        "title":"Volutpat nibh dictum eleifend torquent",
-        "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
-    },
-    {
-        "id":2,
-        "year":2022,
-        "date":"June 30",
-        "title":"Rosque gravida tempor aliquam velit",
-        "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe, eaque amet deleniti hic quas qui cumque delectus aliquid, eius quia quod, quae, aliquam aspernatur facilis. Minima quod corporis dignissimos porro."
-    },
-    {
-        "id":3,
-        "year":2022,
-        "date":"June 30",
-        "title":"Volutpat nibh dictum eleifend torquent",
-        "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
-    },
-    {
-        "id":4,
-        "year":2022,
-        "date":"June 30",
-        "title":"Rosque gravida tempor aliquam velit",
-        "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe, eaque amet deleniti hic quas qui cumque delectus aliquid, eius quia quod, quae, aliquam aspernatur facilis. Minima quod corporis dignissimos porro."
-    }
+  {
+    "id": 1,
+    "year": 2024,
+    "date": "January 1",
+    "title": "Beginning of St. George’s Centennial Year",
+    "text": "This Jan. 1 , 2024, Tudhope Street reverberated to the sound of a church bell rung 100 times to mark the beginning of St. George’s centennial year, a landmark for the small congregation of around 50 parishioners."
+  },
+  {
+    "id": 2,
+    "year": 1925,
+    "date": "",
+    "title": "Bell Installed",
+    "text": "The bell itself was a gift presented by Colonel C. H. L Jones of Sault Ste. Marie, and was the first of its kind to be made in Northern Ontario. Installed in 1925, the bell is one year short of its own centennial."
+  },
+  {
+    "id": 3,
+    "year": 1924,
+    "date": "October 12",
+    "title": "Opening Service",
+    "text": "At a special ceremony memorialized in an issue of ‘The Algoma Missionary News’ the foundation stone was laid for St. George’s Church. Set in place and blessed by the Venerable Gowan Gillmor, D.D. Archdeacon of Algoma, acting representative of the Archbishop George Thorneloe D.D., D.C.L. It was recorded that the Archdeacon remarked in his address that ''Although the building itself would not last for eternity, yet within it’s walls men and women and children would be so instructed and built up in the Faith that they would live forever with Christ.''"
+  },
+  {
+    "id": 4,
+    "year": 1924,
+    "date": "June 22",
+    "title": "Foundation Stone Laid",
+    "text": "At a special ceremony memorialized in an issue of ‘The Algoma Missionary News’ the foundation stone was laid for St. George’s Church. Set in place and blessed by the Venerable Gowan Gillmor, D.D. Archdeacon of Algoma, acting representative of the Archbishop George Thorneloe D.D., D.C.L. It was recorded that the Archdeacon remarked in his address that ''Although the building itself would not last for eternity, yet within it’s walls men and women and children would be so instructed and built up in the Faith that they would live forever with Christ.''"
+  },
+  {
+    "id": 5,
+    "year": 1913,
+    "date": "",
+    "title": "First Lease",
+    "text": "The rich history of the church and all it stands for began even before the building itself was erected going back to 1913, when Diocesan notes mentioned that the Bishop had secured a 99-year lease of a parcel of land in Espanola, courtesy of the Spanish River Pulp and Paper Company."
+  }
 ]
