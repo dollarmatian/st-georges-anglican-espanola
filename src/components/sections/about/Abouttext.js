@@ -13,7 +13,7 @@ class Abouttext extends Component {
                     <img
                       src={
                         process.env.PUBLIC_URL +
-                        '/assets/img/service/details/5.jpg'
+                        '/assets/img/service/details/image2.jpg'
                       }
                       alt='service'
                     />
@@ -49,9 +49,9 @@ class Abouttext extends Component {
             <div className='col-lg-6'>
               <div className='me-lg-30'>
                 <div className='section-title mb-0 text-start'>
-                  <p className='subtitle'>We have 25+ years of experience</p>
+                  <p className='subtitle'>Celebrating 100 Years</p>
                   <h4 className='title'>
-                    We Provide Exceptional Solution For Clients
+                    We Provide Exceptional Support For Community
                   </h4>
                 </div>
                 <p className='blockquote bg-transparent'>
