@@ -2,13 +2,14 @@
   "name": "sacreva",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://metropolitanhost.com/themes/themeforest/react/sacreva/",
+  "homepage": "https://dollarmatian.github.io/st-georges-anglican-espanola",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
     "bootstrap": "^5.1.0",
     "chart.js": "^3.5.1",
+    "gh-pages": "^6.1.1",
     "jquery": "^3.6.0",
     "magnific-popup": "^1.1.0",
     "plyr-react": "^3.1.0",
@@ -31,6 +32,8 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts --openssl-legacy-provider start --watch",
     "build": "react-scripts --openssl-legacy-provider build",
     "test": "react-scripts test",
