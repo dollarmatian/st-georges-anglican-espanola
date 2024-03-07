@@ -38,7 +38,7 @@ class Abouttext extends Component {
                       className='ms-0'
                       src={
                         process.env.PUBLIC_URL +
-                        '/assets/img/service/details/8.jpg'
+                        '/assets/img/service/details/rev.jpg'
                       }
                       alt='service'
                     />
@@ -51,13 +51,13 @@ class Abouttext extends Component {
                 <div className='section-title mb-0 text-start'>
                   <p className='subtitle'>Celebrating 100 Years</p>
                   <h4 className='title'>
-                    We Provide Exceptional Support For Community
+                  Communion with Christ, Creating Community, and Caring for Creation
                   </h4>
                 </div>
                 <p className='blockquote bg-transparent'>
                   {' '}
-                  We are a church that belives in Jesus christ and the followers
-                  and We are a church that belives in Jesus christ{' '}
+                  We are a church that believes in Jesus Christ and the
+                  followers and We are a church that believes in Jesus Christ{' '}
                 </p>
                 <div className='sigma_icon-block icon-block-3'>
                   <div className='icon-wrapper'>
